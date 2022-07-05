@@ -15,7 +15,7 @@ Hi, i'm <a href="https://ggbh.tk/">Jimothy</a>, a self-taught developer:
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"></cod
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
 
