@@ -20,7 +20,6 @@ Hi, i'm <a href="https://ggbh.tk/">Jimothy</a>, a self-taught developer:
 <code><img height="20" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
 
 📊 **Stats**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jim-othy&show_icons=true&locale=en&layout=compact" alt="jim-othy" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jim-othy&show_icons=true&locale=en" alt="jim-othy" /></p>
 
 
