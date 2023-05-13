@@ -27,33 +27,7 @@
 
 ## Here are some stats...
 
-[![](https://wakatime.com/badge/user/ebadf288-2f58-4ca3-909d-c07fe49f4ae4.svg)](https://wakatime.com/@ebadf288-2f58-4ca3-909d-c07fe49f4ae4)
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/jim-othy/jim-othy/blob/master/metrics.classic.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/jim-othy/jim-othy/blob/master/metrics.plugin.achievements.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/jim-othy/jim-othy/blob/master/metrics.plugin.languages.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/jim-othy/jim-othy/blob/master/metrics.plugin.reactions.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/jim-othy/jim-othy/blob/master/metrics.plugin.wakatime.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/jim-othy/jim-othy/blob/master/metrics.plugin.isocalendar.svg">
-    </td
-  </tr>
-</table>
+![](https://wakatime.com/badge/user/85662f5a-d9af-4aba-946d-62ad2a4aa31a.svg)<br />
+![](https://github-readme-stats.vercel.app/api?username=jim-othy&theme=blue-green)
 
 ---
