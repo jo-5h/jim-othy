@@ -20,10 +20,10 @@
 ![](https://img.shields.io/badge/-TypeScript-00599C?style=flat-square&logo=typescript&logoColor=white)
 
 ## PC Specs..
-![](https://img.shields.io/badge/CPU-R53600-76B900?labelColor=111111&style=flat-square&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/CPU-R53600-ED1C24?labelColor=111111&style=flat-square&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/GPU-RTX2070-76B900?labelColor=111111&style=flat-square&logo=nvidia&logoColor=white)<br />
 ![](https://img.shields.io/badge/RAM-16GB-76B900?labelColor=111111&style=flat-square&logo=google%20analytics&logoColor=white)
-![](https://img.shields.io/badge/DISK-4TBHDD-76B900?labelColor=111111&style=flat-square&logo=google%20analytics&logoColor=white)
+![](https://img.shields.io/badge/DISK-4TBHDD-ED1C24?labelColor=111111&style=flat-square&logo=google%20analytics&logoColor=white)
 
 ## Here are some stats...
 
