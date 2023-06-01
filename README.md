@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-00599C?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Lua-A020F0?style=flat-square&logo=lua&logoColor=white)
 
 ## PC Specs..
 ![](https://img.shields.io/badge/CPU-R53600-ED1C24?labelColor=111111&style=flat-square&logo=amd&logoColor=white)
