@@ -4,11 +4,11 @@
 
 [![](https://img.shields.io/badge/OS-Windows-5277C3?labelColor=111111&style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows?r=1)
 [![](https://img.shields.io/badge/Editor-VS_Code-007ACC?labelColor=111111&style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Browser-Google-5277C3?labelColor=111111&style=flat-square&logo=google-chrome&logoColor=white)]([https://github.com/neovim/neovim](https://www.google.com/chrome/))
+[![](https://img.shields.io/badge/Browser-Google-FCBA03?labelColor=111111&style=flat-square&logo=google-chrome&logoColor=white)]([https://github.com/neovim/neovim](https://www.google.com/chrome/))
 
 ![](https://img.shields.io/badge/Hosting-FireBase-E34F26?labelColor=111111&style=flat-square&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/DataBase-MongoDB-13aa52?labelColor=111111&style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Discord-sauced.on-0001C3?labelColor=111111&style=flat-square&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/Discord-sauced.on-5277C3?labelColor=111111&style=flat-square&logo=discord&logoColor=white)
 
 ![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
