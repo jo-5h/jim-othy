@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Hosting-FireBase-E34F26?labelColor=111111&style=flat-square&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/DataBase-MongoDB-13aa52?labelColor=111111&style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/DC-Jimothy'%230001-0001C3?labelColor=111111&style=flat-square&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/DC-sauced.on-0001C3?labelColor=111111&style=flat-square&logo=discord&logoColor=white)
 
 ![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
